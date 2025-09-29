@@ -1,1 +1,19 @@
-# Machine Learning Labs and Notebooks (Semester 7)\r\n\r\nML notebooks and scripts for classical ML tasks: preprocessing, modeling, and evaluation.\r\n\r\n## Tech Stack\r\n- Python 3.8+\r\n- Jupyter Notebook\r\n- numpy, pandas, matplotlib, scikit-learn (where applicable)\r\n\r\n## Skills Demonstrated\r\n- Supervised/unsupervised learning\r\n- Model validation and metrics\r\n- Feature engineering and preprocessing\r\n\r\n## Structure\r\n- src/: Notebooks, scripts, and datasets\r\n
+# Machine Learning Labs and Notebooks (Semester 7)
+
+ML notebooks and scripts for classical machine learning tasks: preprocessing, modeling, and evaluation.
+
+---
+
+## 🚀 Tech Stack
+- **Python 3.8+**
+- **Jupyter Notebook**
+- **numpy, pandas, matplotlib, scikit-learn** (where applicable)
+
+---
+
+## 🧩 Skills Demonstrated
+- **Supervised / Unsupervised learning**  
+- **Model validation** and performance metrics  
+- **Feature engineering** and preprocessing  
+
+---
